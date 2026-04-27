@@ -50,19 +50,6 @@ Built to bridge the gap between theoretical algorithms and real-world robotic na
  Euclidean Distance
  Manhattan Distance
 
----
-
-## Demo
-
-> (Add your demo GIF or video here)
-> Example:
-
-```
-![Demo](assets/demo.gif)
-```
-
----
-
 ## 🎮 Controls
 
 | Key     | Action                  |
